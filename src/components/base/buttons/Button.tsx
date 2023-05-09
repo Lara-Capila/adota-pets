@@ -1,10 +1,11 @@
 import React from 'react';
-import { Text, TouchableOpacity } from 'react-native';
+import { GestureResponderEvent, Text, TouchableOpacity } from 'react-native';
 
 type ButtonProps = {
   label: string;
-  textTransform: 'uppercase' | 'lowercase' | 'capitalize' | 'normal-case';
-  state: 'fill' | 'stroke' | 'disabled';
+  textTransform?: 'uppercase' | 'lowercase' | 'capitalize' | 'normal-case';
+  state?: 'fill' | 'stroke' | 'disabled';
+  onPress: (event: GestureResponderEvent) => void;
 };
 
 const variants = {
@@ -16,7 +17,8 @@ const variants = {
 const Button = ({
   label,
   textTransform = 'normal-case',
-  state,
+  state = 'fill',
+  onPress,
 }: ButtonProps) => {
   const textClasses = `${textTransform} ${
     state === 'disabled' ? 'text-gray-300' : ''
@@ -24,12 +26,13 @@ const Button = ({
 
   return (
     <TouchableOpacity
+      onPress={onPress}
       className={`
         ${variants[state]}
         p-2 
         rounded-lg 
         flex items-center justify-center 
-        w-full
+        w-3/4
       `}
     >
       <Text className={`text-base font-bold text-dark ${textClasses}`}>

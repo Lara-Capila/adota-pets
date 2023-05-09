@@ -5,19 +5,18 @@ const SocialMediaButton = () => {
   return (
     <TouchableOpacity
       className="
-        py-2
-        px-20
+        p-2
         rounded-lg 
-        flex items-center justify-between
+        flex items-center justify-center
         flex-row
-        w-full
+        w-3/4
         border border-primary
       "
     >
       <Image
-        source={require('../../../assets/images/g-logo.png')}
+        source={require('../../../../assets/images/g-logo.png')}
         resizeMode="center"
-        className="w-9 h-6"
+        className="w-9 h-6 mr-2"
       />
       <Text className="text-sm text-dark">Entrar com o Google</Text>
     </TouchableOpacity>
