@@ -14,7 +14,7 @@ const SocialMediaButton = () => {
       "
     >
       <Image
-        source={require('../../../../assets/images/g-logo.png')}
+        source={require('../../../assets/images/g-logo.png')}
         resizeMode="center"
         className="w-9 h-6 mr-2"
       />

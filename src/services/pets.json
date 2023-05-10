@@ -1,0 +1,92 @@
+[
+  {
+    "name": "belinha",
+    "species": "cachorro",
+    "breed": "vira-lata",
+    "age": 2,
+    "color": "preta",
+    "animalConditions": "O animal foi levado por mm ao veterinário no último dia 10. Durante a consulta foi constado que o animal já está castrado. Demos as vacinas e fermífugos. Tomou banho e retirou os carrapatos",
+    "castrated": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517849845537-4d257902454a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
+  },
+  {
+    "name": "thor",
+    "species": "cachorro",
+    "breed": "pug",
+    "age": 1,
+    "color": "branco",
+    "animalConditions": "O animal foi levado por mm ao veterinário no último dia 10. Durante a consulta foi constado que o animal já está castrado. Demos as vacinas e fermífugos. Tomou banho e retirou os carrapatos",
+    "castrated": false,
+    "imageUrl": "https://img.freepik.com/fotos-premium/lindo-buldogue-frances-preto-e-branco_138545-116.jpg?w=1380"
+  },
+  {
+    "name": "ariel",
+    "species": "gato",
+    "breed": "vira-lata",
+    "age": 1,
+    "color": "preta",
+    "animalConditions": "O animal foi levado por mm ao veterinário no último dia 10. Durante a consulta foi constado que o animal já está castrado. Demos as vacinas e fermífugos. Tomou banho e retirou os carrapatos",
+    "castrated": true,
+    "imageUrl": "https://img.freepik.com/fotos-gratis/foco-seletivo-de-um-adoravel-gato-preto-e-branco-com-a-lingua-de-fora_181624-35744.jpg?w=1380&t=st=1683745046~exp=1683745646~hmac=b89589b9b7cc419e139e6425073483399e3a077d7b09be54d0dcacb72b9db9bf"
+  },
+  {
+    "name": "belinha",
+    "species": "cachorro",
+    "breed": "vira-lata",
+    "age": 2,
+    "color": "preta",
+    "animalConditions": "O animal foi levado por mm ao veterinário no último dia 10. Durante a consulta foi constado que o animal já está castrado. Demos as vacinas e fermífugos. Tomou banho e retirou os carrapatos",
+    "castrated": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517849845537-4d257902454a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
+  },
+  {
+    "name": "thor",
+    "species": "cachorro",
+    "breed": "pug",
+    "age": 1,
+    "color": "branco",
+    "animalConditions": "O animal foi levado por mm ao veterinário no último dia 10. Durante a consulta foi constado que o animal já está castrado. Demos as vacinas e fermífugos. Tomou banho e retirou os carrapatos",
+    "castrated": false,
+    "imageUrl": "https://img.freepik.com/fotos-premium/lindo-buldogue-frances-preto-e-branco_138545-116.jpg?w=1380"
+  },
+  {
+    "name": "ariel",
+    "species": "gato",
+    "breed": "vira-lata",
+    "age": 1,
+    "color": "preta",
+    "animalConditions": "O animal foi levado por mm ao veterinário no último dia 10. Durante a consulta foi constado que o animal já está castrado. Demos as vacinas e fermífugos. Tomou banho e retirou os carrapatos",
+    "castrated": true,
+    "imageUrl": "https://img.freepik.com/fotos-gratis/foco-seletivo-de-um-adoravel-gato-preto-e-branco-com-a-lingua-de-fora_181624-35744.jpg?w=1380&t=st=1683745046~exp=1683745646~hmac=b89589b9b7cc419e139e6425073483399e3a077d7b09be54d0dcacb72b9db9bf"
+  },
+  {
+    "name": "belinha",
+    "species": "cachorro",
+    "breed": "vira-lata",
+    "age": 2,
+    "color": "preta",
+    "animalConditions": "O animal foi levado por mm ao veterinário no último dia 10. Durante a consulta foi constado que o animal já está castrado. Demos as vacinas e fermífugos. Tomou banho e retirou os carrapatos",
+    "castrated": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517849845537-4d257902454a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
+  },
+  {
+    "name": "thor",
+    "species": "cachorro",
+    "breed": "pug",
+    "age": 1,
+    "color": "branco",
+    "animalConditions": "O animal foi levado por mm ao veterinário no último dia 10. Durante a consulta foi constado que o animal já está castrado. Demos as vacinas e fermífugos. Tomou banho e retirou os carrapatos",
+    "castrated": false,
+    "imageUrl": "https://img.freepik.com/fotos-premium/lindo-buldogue-frances-preto-e-branco_138545-116.jpg?w=1380"
+  },
+  {
+    "name": "ariel",
+    "species": "gato",
+    "breed": "vira-lata",
+    "age": 1,
+    "color": "preta",
+    "animalConditions": "O animal foi levado por mm ao veterinário no último dia 10. Durante a consulta foi constado que o animal já está castrado. Demos as vacinas e fermífugos. Tomou banho e retirou os carrapatos",
+    "castrated": true,
+    "imageUrl": "https://img.freepik.com/fotos-gratis/foco-seletivo-de-um-adoravel-gato-preto-e-branco-com-a-lingua-de-fora_181624-35744.jpg?w=1380&t=st=1683745046~exp=1683745646~hmac=b89589b9b7cc419e139e6425073483399e3a077d7b09be54d0dcacb72b9db9bf"
+  }
+]

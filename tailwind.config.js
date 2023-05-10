@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 
-const defaultColors = require('./default-colors.json');
+const defaultColors = require('./src/constants/default-colors.json');
 
 module.exports = {
   content: [

@@ -3,7 +3,7 @@ import { AuthData, SignInProps } from '../contexts/Auth';
 const signIn = async ({ email, password }: SignInProps): Promise<AuthData> => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
-      if (email === 'test@example.com' && password === 'userTestPassword') {
+      if (email === 'test@example.com' && password === 'teste123456') {
         resolve({
           token: 'token',
           name: 'User Test',
