@@ -1,9 +1,9 @@
-import { AuthData, SignInProps } from '../contexts/Auth';
+import { AuthData, SignInProps } from '../@types/auth';
 
 const signIn = async ({ email, password }: SignInProps): Promise<AuthData> => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
-      if (email === 'test@example.com' && password === 'teste123456') {
+      if (email === 'test@example.com' && password === 'teste') {
         resolve({
           token: 'token',
           name: 'User Test',
